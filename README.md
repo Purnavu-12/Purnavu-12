@@ -14,7 +14,7 @@
 
 
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Desktop+GUI+Applications;AIML;API+Development;Learning+something+new+every+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Desktop+GUI+Applications;API+Development;Learning+something+new+every+day!" alt="Typing SVG" />
 </div>
 
 <br/>

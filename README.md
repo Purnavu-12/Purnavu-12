@@ -38,40 +38,6 @@
   
 </p>
 
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Main Tech</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Purnavu-12/gemma-fastapi-demo">Gemma FastAPI Demo</a></td>
-    <td>Fast & modern API using Gemma LLM + FastAPI</td>
-    <td>Python • FastAPI</td>
-  </tr>
-  <tr>
-    <td><b></b></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b></b></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b></b></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-> *More cool projects coming soon...* 🚀
-
-<br/>
-
 ## 🤝 Let's Connect!
 
 <div align="center">

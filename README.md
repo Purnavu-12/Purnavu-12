@@ -1,58 +1,51 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Purnavu-12's GitHub profile — ASCII profile card" src="dark_mode.svg" width="100%" />
+</picture>
+
+<img src="./hd-about.svg" width="620" alt="about"/>
+
+Shipping systems > building demos.
+
+I'm a 2nd-year undergrad obsessed with the mechanics of production-grade software. Anyone can write a script, but I want to know how a system behaves when the state is distributed, the network is unreliable, and the users are real.
+
+**Stacking knowledge in:**
+
+Distributed Systems | Agentic AI & MCP | Cloud & Containers | CI/CD Pipelines | Applied DSA | Product Engineering
+
+If it has complex failure modes and needs to scale, I want to build it.
+
+<img src="./hd-stack.svg" width="620" alt="stack"/>
+
 <div align="center">
-  <h1>Hi there! 👋 I'm Purnasai V</h1>
-  
-  <p>
-    <strong>Full-Stack Developer</strong> • <strong>Problem Solver</strong> • <strong>Building things that matter</strong>
-  </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    
-  </p>
+**AI / Agents** · LLMs • Agentic AI • MCP • RAG
 
+**Systems & Infrastructure** · PostgreSQL • Docker • Git • GitHub • Linux
 
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Desktop+GUI+Applications;API+Development;Learning+something+new+every+day!" alt="Typing SVG" />
+**Languages** · C & C++ • Java • Python • FastAPI • Next.js
+
 </div>
 
-<br/>
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-## 🛠️ Technologies & Tools I Work With
+**[StateMe](https://github.com/Purnavu-12/StateMe)** &nbsp;·&nbsp; <samp>next.js, typescript, ai</samp><br>
+A multi-tenant status page and incident management SaaS. Teams publish public status pages, manage incidents, send subscriber notifications, and generate AI postmortems — all in one place.
+
+**[bobman-mcp](https://github.com/Purnavu-12/bobman-mcp)** &nbsp;·&nbsp; <samp>typeScript</samp><br>
+Closed-loop engineering MCP whose value is the *loop itself* — the agent only becomes safer and more deliberate when there is a stateful orchestrator on the other side of stdio.
+
+**[RAPID](https://github.com/Purnavu-12/RAPID)** &nbsp;·&nbsp; <samp>typeScript</samp><br>
+A live, event-driven revenue recovery platform for merchants using Razorpay.
+
+**[Life-log](https://github.com/Purnavu-12/Life-log)** &nbsp;·&nbsp; <samp>typeScript</samp><br>
+Transform fleeting thoughts into structured, searchable memories. Captures audio, transcribes, extracts insights, integrates with calendar and email.
+
+<img src="./hd-connect.svg" width="620" alt="connect"/>
 
 <p align="center">
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-17/20/23-%2300599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9–3.12-blue?logo=python&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://docs.python.org/3/library/tkinter.html"><img src="https://img.shields.io/badge/GUI-Tkinter-success?logo=python&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/API-FastAPI-green?logo=fastapi&logoColor=white&style=for-the-badge"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-APIs-important?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  
+<a href="https://github.com/Purnavu-12" target="_blank" rel="noopener noreferrer"><img src="./badge-github.svg" width="180" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/purnavu12" target="_blank" rel="noopener noreferrer"><img src="./badge-linkedin.svg" width="180" alt="LinkedIn"/></a>&nbsp;
+<a href="https://leetcode.com/u/Purnavu_12" target="_blank" rel="noopener noreferrer"><img src="./badge-leetcode.svg" width="180" alt="LeetCode"/></a>
 </p>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-<a href="https://github.com/Purnavu-12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/purnavu12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center"> 
-  <i>Thanks for stopping by! Feel free to explore, star ⭐, and fork my repositories.</i><br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Purnavu-12.Purnavu-12" alt="visitors"/>
-</div>

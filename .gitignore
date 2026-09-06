@@ -1,0 +1,22 @@
+# Preview / temporary files
+*.png
+*.html
+*.js
+preview.*
+*_preview*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+avatar.png
+
+# Node
+node_modules/
+
+# IDEs
+.idea/
+.vscode/
+
+# Fonts
+scripts/fonts/

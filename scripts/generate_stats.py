@@ -535,7 +535,7 @@ def main():
     from refresh_profile_card import refresh_cards
     refresh_cards(user, login, out_dir)
     files = {}
-    for word in ("portfolio", "about", "stack", "projects"):
+    for word in ("about", "stack", "projects"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
     files["hd-connect.svg"] = draw_connect()
     for label_name in ("github", "linkedin", "leetcode"):

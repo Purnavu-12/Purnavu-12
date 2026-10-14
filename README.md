@@ -1,5 +1,3 @@
-<a href="https://purnasai-portfolio-two.vercel.app/"><img src="./hd-portfolio.svg" width="620" alt="portfolio"/></a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
@@ -17,6 +15,9 @@ I'm an undergrad obsessed with the mechanics of production-grade software. Anyon
 Distributed Systems | Agentic AI & MCP | Cloud & Containers | CI/CD Pipelines | Applied DSA | Product Engineering
 
 If it has complex failure modes and needs to scale, I want to build it.
+
+**[Portfolio](https://purnasai-portfolio-two.vercel.app/)** &nbsp;·&nbsp; <samp>projects, experience, skills</samp><br>
+Explore my projects, open-source work, experience, and the tools I build with.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -42,6 +43,8 @@ If it has complex failure modes and needs to scale, I want to build it.
 
 **[SwiftBuild](https://github.com/SwiftBuild-ai)** &nbsp;·&nbsp; <samp>organization · admin & contributor</samp><br>
 Admin and contributor at SwiftBuild, building and maintaining projects with the organization.
+
+SwiftBuild is an open-source platform for designing, simulating, validating, and managing scalable software architectures.
 
 **[BuildWithMe-UI](https://github.com/Purnavu-12/BuildWithMe-UI)** &nbsp;·&nbsp; <samp>react, vue, svelte, typescript</samp><br>
 Creator and primary maintainer of an open-source component library. Discover, copy, and remix polished UI components to build modern interfaces faster.

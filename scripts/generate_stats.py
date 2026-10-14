@@ -36,7 +36,18 @@ API = "https://api.github.com/graphql"
 QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
+    createdAt
+    followers { totalCount }
+    pullRequests { totalCount }
+    issues { totalCount }
+    featuredRepository: repository(name: "BuildWithMe-UI") {
+      name stargazerCount
+    }
     contributionsCollection(from: $from, to: $to) {
+      totalCommitContributions
+      totalPullRequestReviewContributions
+      totalRepositoriesWithContributedCommits
+      restrictedContributionsCount
       contributionCalendar {
         totalContributions
         weeks { contributionDays { contributionCount date weekday } }
@@ -44,7 +55,9 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
     }
     repositories(first: 100, ownerAffiliations: OWNER, isFork: false,
                  privacy: PUBLIC) {
+      totalCount
       nodes {
+        stargazerCount forkCount
         languages(first: 12, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name } }
         }
@@ -517,7 +530,10 @@ def main():
         print("Regenerating portrait from avatar...")
         regenerate_portrait(token, login)
 
-    s = summarise(fetch(login, token))
+    user = fetch(login, token)
+    s = summarise(user)
+    from refresh_profile_card import refresh_cards
+    refresh_cards(user, login, out_dir)
     files = {}
     for word in ("about", "stack", "projects"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)

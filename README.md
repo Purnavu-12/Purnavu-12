@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://purnasai-portfolio-two.vercel.app/"><strong>Portfolio ↗</strong></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
@@ -6,9 +10,9 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-Shipping systems > building demos.
+Building & Shipping System > Just understanding concepts
 
-I'm a 2nd-year undergrad obsessed with the mechanics of production-grade software. Anyone can write a script, but I want to know how a system behaves when the state is distributed, the network is unreliable, and the users are real.
+I'm an undergrad obsessed with the mechanics of production-grade software. Anyone can write a script, but I want to know how a system behaves when the state is distributed, the network is unreliable, and the users are real.
 
 **Stacking knowledge in:**
 
@@ -20,26 +24,34 @@ If it has complex failure modes and needs to scale, I want to build it.
 
 <div align="center">
 
-**AI / Agents** · LLMs • Agentic AI • MCP • RAG
+**Languages** · C • C++ • Java • Python • TypeScript • JavaScript • SQL
 
-**Systems & Infrastructure** · PostgreSQL • Docker • Git • GitHub • Linux
+**Frameworks** · Next.js • FastAPI • React • Vue • Svelte • Shadcn/ui • Tailwind CSS • Prisma • Framer
 
-**Languages** · C & C++ • Java • Python • FastAPI • Next.js
+**AI & Integrations** · RAG • LangGraph • Whisper STT • TTS • Google OAuth • Payments • Supabase • Swagger • Amazon Bedrock
+
+**Cloud & Delivery** · AWS (EC2, S3, IAM) • Google Cloud • Docker • Vercel • GitHub Actions • Kafka
+
+**Tools & Data** · Git • GitHub • Linux • PostgreSQL • ChromaDB • Redis • Amazon Aurora • Postman • Figma
+
+**Foundations** · DSA • OOP • DBMS • High-Level Design • Hashing • Database sharding • Microservices • Message queues
+
+**More technologies** · HTML • CSS • PL/pgSQL • Dockerfiles • MCP
 
 </div>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[StateMe](https://github.com/Purnavu-12/StateMe)** &nbsp;·&nbsp; <samp>next.js, typescript, ai</samp><br>
+**[SwiftBuild](https://github.com/SwiftBuild-ai)** &nbsp;·&nbsp; <samp>organization · admin & contributor</samp><br>
+Admin and contributor at SwiftBuild, building and maintaining projects with the organization.
+
+**[BuildWithMe-UI](https://github.com/Purnavu-12/BuildWithMe-UI)** &nbsp;·&nbsp; <samp>react, vue, svelte, typescript</samp><br>
+Creator and primary maintainer of an open-source component library. Discover, copy, and remix polished UI components to build modern interfaces faster.
+
+**[StateMe](https://github.com/Purnavu-12/StateMe)** &nbsp;·&nbsp; <samp>next.js, typescript, amazon aurora, postgresql</samp><br>
 A multi-tenant status page and incident management SaaS. Teams publish public status pages, manage incidents, send subscriber notifications, and generate AI postmortems — all in one place.
 
-**[bobman-mcp](https://github.com/Purnavu-12/bobman-mcp)** &nbsp;·&nbsp; <samp>typeScript</samp><br>
-Closed-loop engineering MCP whose value is the *loop itself* — the agent only becomes safer and more deliberate when there is a stateful orchestrator on the other side of stdio.
-
-**[RAPID](https://github.com/Purnavu-12/RAPID)** &nbsp;·&nbsp; <samp>typeScript</samp><br>
-A live, event-driven revenue recovery platform for merchants using Razorpay.
-
-**[Life-log](https://github.com/Purnavu-12/Life-log)** &nbsp;·&nbsp; <samp>typeScript</samp><br>
+**[Life-log](https://github.com/Purnavu-12/Life-log)** &nbsp;·&nbsp; <samp>fastapi, next.js, whisper, chromadb</samp><br>
 Transform fleeting thoughts into structured, searchable memories. Captures audio, transcribes, extracts insights, integrates with calendar and email.
 
 <img src="./hd-connect.svg" width="620" alt="connect"/>

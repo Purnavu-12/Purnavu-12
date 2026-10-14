@@ -34,7 +34,7 @@ jobs:
 
       - name: Commit whatever changed
         run: |
-          FILES="hd-*.svg badge-*.svg"
+          FILES="dark_mode.svg light_mode.svg hd-*.svg badge-*.svg"
           if [ -z "$(git status --porcelain -- $FILES)" ]; then
             echo "no change"
             exit 0

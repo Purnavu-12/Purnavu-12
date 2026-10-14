@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://purnasai-portfolio-two.vercel.app/"><strong>Portfolio ↗</strong></a>
-</p>
+<a href="https://purnasai-portfolio-two.vercel.app/"><img src="./hd-portfolio.svg" width="620" alt="portfolio"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
